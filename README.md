@@ -1,4 +1,4 @@
-# Node-RED-Docker 1
+# Node-RED-Docker
 
 Template project for running Node-RED in Docker
 
